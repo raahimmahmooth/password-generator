@@ -66,15 +66,4 @@ How many letters do you want in your password? 5
 How many numbers do you want in your password? 3
 How many symbols do you want in your password? 2
 
-### Key Sections Included:
-
-1. **Overview**: General description of the program.
-2. **Features**: Key functionalities.
-3. **Requirements**: What you need to run the program.
-4. **Usage**: Detailed steps on how to clone/download, run the script, and provide inputs.
-5. **Input/Output Examples**: Concrete examples of what to expect when interacting with the program.
-6. **How the Program Works**: Explanation of how the password is generated, including random selection and shuffling.
-7. **License and Author**: Information about the license and optional author section.
-
-Feel free to copy this directly into your `README.md` file! Let me know if you need more details or adjustments!
 
